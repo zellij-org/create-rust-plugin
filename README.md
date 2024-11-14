@@ -1,3 +1,6 @@
+![img-2024-11-14-171040](https://github.com/user-attachments/assets/ef9b9d79-369a-4303-afb5-ddbce66bd9d4)
+
+
 From Zero to "Hello world!" inside a Zellij Rust plugin with one keyboard shortcut.
 
 All you have to do is think of a name for your new plugin and this wizard will:
