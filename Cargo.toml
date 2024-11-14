@@ -1,0 +1,10 @@
+[package]
+name = "create-rust-plugin"
+version = "0.1.0"
+authors = ["Aram Drevekenin <aram@poor.dev>"]
+edition = "2018"
+
+[dependencies]
+zellij-tile = "0.41.1"
+#zellij-tile = { version = "0.41.0", path = "/home/aram/code/zellij/zellij-tile" }
+uuid = { version = "1.7.0", features = ["v4"] }
