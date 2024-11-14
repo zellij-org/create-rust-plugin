@@ -15,7 +15,7 @@ More about Zellij plugins: [Zellij Documentation][docs]
 
 To try this plugin out (from inside a Zellij session), you can either:
 1. `zellij plugin -- https://github.com/zellij-org/create-rust-plugin/releases/latest/download/create-rust-plugin.wasm`
-2. Start the `plugin manager` with `Ctrl o` + `p`, press `Ctrl a` to load a new plugin and paste this URL: `https://github.com/zellij-org/develop-rust-plugin/releases/latest/download/develop-rust-plugin.wasm"`
+2. Start the `plugin manager` with `Ctrl o` + `p`, press `Ctrl a` to load a new plugin and paste this URL: `https://github.com/zellij-org/create-rust-plugin/releases/latest/download/create-rust-plugin.wasm`
 
 To bind it to a keybinding, add the following to your [keybindings](https://zellij.dev/documentation/keybindings.html):
 ```kdl
