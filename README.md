@@ -21,7 +21,7 @@ To bind it to a keybinding, add the following to your [keybindings](https://zell
 ```kdl
 shared {
     bind "Ctrl y" {
-        LaunchOrFocusPlugin "https://github.com/zellij-org/develop-rust-plugin/releases/latest/download/develop-rust-plugin.wasm" {
+        LaunchOrFocusPlugin "https://github.com/zellij-org/create-rust-plugin/releases/latest/download/create-rust-plugin.wasm" {
             project_dir "/home/aram/code" // change-me!
             floating true
             move_to_focused_tab true
