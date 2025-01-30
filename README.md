@@ -3,9 +3,12 @@
 
 From Zero to "Hello world!" inside a Zellij Rust plugin with one keyboard shortcut.
 
+### How does it work?
+
 All you have to do is think of a name for your new plugin and this wizard will:
-1. Clone the [`rust-plugin-example`] template repository into a folder by that name in your project directory
-2. Create a development workspace for you as a new tab, with your `$EDITOR` and a helper to compile and run your plugin
+
+1. Clone the [rust-plugin-example][rust-plugin-example] template repository into a folder by that name in your project directory
+2. Create a development workspace for you as a new tab, with your `$EDITOR` and [a helper plugin](https://github.com/zellij-org/develop-rust-plugin) to compile and run your plugin
 
 The only prerequisites are Zellij `0.41.1` and up, and `rust` (with `cargo`) installed on your machine.
 
