@@ -23,7 +23,7 @@ struct State {
 
 register_plugin!(State);
 
-const DEVELOP_RUST_PLUGIN_URL: &str = "https://github.com/zellij-org/develop-rust-plugin/releases/download/v0.1.0/develop-rust-plugin.wasm";
+const DEVELOP_RUST_PLUGIN_URL: &str = "https://github.com/zellij-org/develop-rust-plugin/releases/download/v0.2.0/develop-rust-plugin.wasm";
 const RUST_PLUGIN_EXAMPLE_URL: &str = "https://github.com/zellij-org/rust-plugin-example.git";
 
 impl ZellijPlugin for State {
